@@ -1,2 +1,2 @@
-# hello-world
+# estimateur PI
 just another repository
